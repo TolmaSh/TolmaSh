@@ -1,14 +1,11 @@
 <img src="header.png"/>
-Web developer who has
-results-oriented approach to creating and using projects.
-I want to find work on a project
-and full time in the company with
-modern approach to development and
-close-knit team.
-I spend my free time in <a href="https://www.codewars.com/users/TolmaSh" rel="nofollow">Codewars</a>
-programming tutorials because in the future I see myself as a Full Stack developer.
-Ready to consider project work and full time
-Work.
+<b>
+FrontEnd developer who has a results-focused attitude to creating SPA, using React(JS/TS), Redux.
+
+I spend my free time in <a href="https://www.codewars.com/users/TolmaSh" rel="nofollow">Codewars</a> and
+programming tutorials because in the future I see myself as a Senior FrontEnd developer.
+ </b>
+<hr>
 <p>
   <br>
 </p>
@@ -20,12 +17,12 @@ Work.
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:m0v4anua@gmail.com'>m0v4anua@gmail.com</a>
+  <b>  📫 How to reach me: <a href='mailto:m0v4anua@gmail.com'>m0v4anua@gmail.com</a> </b>
 </p>
 
 ### Skills:
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d184adf1b00bdb0bcbf70e9f277113b7d3c62859228f211ffa5b2cfda8cf6ae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374"><img src="https://camo.githubusercontent.com/d184adf1b00bdb0bcbf70e9f277113b7d3c62859228f211ffa5b2cfda8cf6ae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-React-282c34?style=for-the-badge&amp;logo=react" style="max-width:100%;"></a>
+<p align='center'><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/d184adf1b00bdb0bcbf70e9f277113b7d3c62859228f211ffa5b2cfda8cf6ae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374"><img src="https://camo.githubusercontent.com/d184adf1b00bdb0bcbf70e9f277113b7d3c62859228f211ffa5b2cfda8cf6ae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374" alt="React" data-canonical-src="https://img.shields.io/badge/-React-282c34?style=for-the-badge&amp;logo=react" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a4beb7dee85998ce6cf268d2e2f3ecf5c88037a2513af19b7060dcf23789edb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d373634414243"><img src="https://camo.githubusercontent.com/a4beb7dee85998ce6cf268d2e2f3ecf5c88037a2513af19b7060dcf23789edb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d373634414243" alt="Redux" data-canonical-src="https://img.shields.io/badge/-Redux-282c34?style=for-the-badge&amp;logo=redux&amp;logoColor=764ABC" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/886d90cd5eb866ec52b5b73653241a2b4d787e34e9756ce77cc8a36c881d045d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065536372697074"><img src="https://camo.githubusercontent.com/886d90cd5eb866ec52b5b73653241a2b4d787e34e9756ce77cc8a36c881d045d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065536372697074" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-282c34?style=for-the-badge&amp;logo=typeScript" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c356cd503de4959c0bab52774bd6e391bd8cfed3f6f7ea81ad3e8f200a9191d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661536372697074"><img src="https://camo.githubusercontent.com/c356cd503de4959c0bab52774bd6e391bd8cfed3f6f7ea81ad3e8f200a9191d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661536372697074" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-282c34?style=for-the-badge&amp;logo=javaScript" style="max-width:100%;"></a>
