@@ -1,4 +1,5 @@
-<img src="header.png"/>
+### Hi there 👋
+### I'm Anatoly Movchan.
 <b>
 FrontEnd developer who has a results-focused attitude to creating SPA, using React(JS/TS), Redux.
 
