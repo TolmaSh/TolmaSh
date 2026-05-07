@@ -2,9 +2,6 @@
 ### I'm Anatolii Movchan.
 <b>
 FrontEnd developer who has a results-focused attitude to creating SPA, using React/NextJS (JS/TS).
-
-I spend my free time in <a href="https://www.codewars.com/users/TolmaSh" rel="nofollow">Codewars</a> and
-programming tutorials because in the future I see myself as a Senior FrontEnd developer.
  </b>
 <hr>
 <p>
